@@ -1,7 +1,7 @@
 {
   "apiId": "25643063",
   "apiHash": "e09473f0f345a46c3b18ca248c18d15a",
-  "chatId": --1002116328493,
+  "chatId": -1002116328493,
   "botToken": "7189002536:AAH2DtCCxYvq6tUjx5SJrF6880Bg3beaM5w",
   "serverPort": 8080,
   "denoKV": "http://localhost:4512/",
